@@ -1,2 +1,2 @@
 # Koulu
-Tänne tulee koulu työt mitä olen tehnyt Lukion aikana merikarvialla
+Tänne tulee koulutyöt mitä tulen tekemään lukion aikana.
